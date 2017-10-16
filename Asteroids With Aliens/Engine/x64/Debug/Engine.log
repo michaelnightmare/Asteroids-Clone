@@ -1,0 +1,8 @@
+﻿  Engine.cpp
+e:\sdva213\week 8\week 8 lab my lab\engine\engine.cpp(47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\sdva213\week 8\week 8 lab my lab\engine\engine.cpp(48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\sdva213\week 8\week 8 lab my lab\engine\engine.cpp(93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\sdva213\week 8\week 8 lab my lab\engine\engine.cpp(97): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\sdva213\week 8\week 8 lab my lab\engine\engine.cpp(99): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\sdva213\week 8\week 8 lab my lab\engine\engine.cpp(110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Engine.vcxproj -> E:\SDVA213\Week 8\Week 8 Lab my lab\Engine\x64\Debug\Engine.exe
